@@ -36,6 +36,9 @@ export const Carousel = () => {
                 <div className="carousel-item">
                     <img src="https://trello.com/1/cards/6737db7c2a103058f98d1dec/attachments/6737dd75459b029f544a4ec2/previews/6737dd7b459b029f544a5133/download/ella-olsson-lMcRyBx4G50-unsplash.webp" className="d-block w-100" alt="Slide 8" />
                 </div>
+                <div className="carousel-item">
+                    <img src="https://trello.com/1/cards/6737db7c2a103058f98d1dec/attachments/6737dd75459b029f544a4ec2/previews/6737dd7b459b029f544a5133/download/ella-olsson-lMcRyBx4G50-unsplash.webp" className="d-block w-100" alt="Slide 8" />
+                </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
                 <span className="carousel-control-prev-icon" aria-hidden="true"></span>
